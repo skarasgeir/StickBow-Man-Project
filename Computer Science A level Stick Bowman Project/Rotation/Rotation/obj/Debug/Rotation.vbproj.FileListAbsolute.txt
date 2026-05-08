@@ -1,0 +1,122 @@
+\\sfxfilesrv03\studenthomedrives\ekoosao6274\documents\visual studio 2015\Projects\Rotation\Rotation\bin\Debug\Rotation.exe
+\\sfxfilesrv03\studenthomedrives\ekoosao6274\documents\visual studio 2015\Projects\Rotation\Rotation\bin\Debug\Rotation.pdb
+\\sfxfilesrv03\studenthomedrives\ekoosao6274\documents\visual studio 2015\Projects\Rotation\Rotation\bin\Debug\Rotation.xml
+\\sfxfilesrv03\studenthomedrives\ekoosao6274\documents\visual studio 2015\Projects\Rotation\Rotation\obj\Debug\Rotation.vbprojResolveAssemblyReference.cache
+\\sfxfilesrv03\studenthomedrives\ekoosao6274\documents\visual studio 2015\Projects\Rotation\Rotation\obj\Debug\MainWindow.g.vb
+\\sfxfilesrv03\studenthomedrives\ekoosao6274\documents\visual studio 2015\Projects\Rotation\Rotation\obj\Debug\Application.g.vb
+\\sfxfilesrv03\studenthomedrives\ekoosao6274\documents\visual studio 2015\Projects\Rotation\Rotation\obj\Debug\Rotation_MarkupCompile.cache
+\\sfxfilesrv03\studenthomedrives\ekoosao6274\documents\visual studio 2015\Projects\Rotation\Rotation\obj\Debug\Rotation_MarkupCompile.lref
+\\sfxfilesrv03\studenthomedrives\ekoosao6274\documents\visual studio 2015\Projects\Rotation\Rotation\obj\Debug\MainWindow.baml
+\\sfxfilesrv03\studenthomedrives\ekoosao6274\documents\visual studio 2015\Projects\Rotation\Rotation\obj\Debug\Rotation.g.resources
+\\sfxfilesrv03\studenthomedrives\ekoosao6274\documents\visual studio 2015\Projects\Rotation\Rotation\obj\Debug\Rotation.Resources.resources
+\\sfxfilesrv03\studenthomedrives\ekoosao6274\documents\visual studio 2015\Projects\Rotation\Rotation\obj\Debug\Rotation.vbproj.GenerateResource.Cache
+\\sfxfilesrv03\studenthomedrives\ekoosao6274\documents\visual studio 2015\Projects\Rotation\Rotation\obj\Debug\Rotation.exe
+\\sfxfilesrv03\studenthomedrives\ekoosao6274\documents\visual studio 2015\Projects\Rotation\Rotation\obj\Debug\Rotation.xml
+\\sfxfilesrv03\studenthomedrives\ekoosao6274\documents\visual studio 2015\Projects\Rotation\Rotation\obj\Debug\Rotation.pdb
+N:\Documents\Visual Studio 2015\Projects\Rotation\Rotation\obj\Debug\Rotation.exe
+N:\Documents\Visual Studio 2015\Projects\Rotation\Rotation\obj\Debug\Rotation.xml
+N:\Documents\Visual Studio 2015\Projects\Rotation\Rotation\obj\Debug\Rotation.pdb
+N:\Documents\Visual Studio 2015\Projects\Rotation\Rotation\bin\Debug\Rotation.exe
+N:\Documents\Visual Studio 2015\Projects\Rotation\Rotation\bin\Debug\Rotation.pdb
+N:\Documents\Visual Studio 2015\Projects\Rotation\Rotation\bin\Debug\Rotation.xml
+N:\Documents\Visual Studio 2015\Projects\Rotation\Rotation\obj\Debug\Rotation.vbprojResolveAssemblyReference.cache
+N:\Documents\Visual Studio 2015\Projects\Rotation\Rotation\obj\Debug\MainWindow.g.vb
+N:\Documents\Visual Studio 2015\Projects\Rotation\Rotation\obj\Debug\Application.g.vb
+N:\Documents\Visual Studio 2015\Projects\Rotation\Rotation\obj\Debug\Rotation_MarkupCompile.cache
+N:\Documents\Visual Studio 2015\Projects\Rotation\Rotation\obj\Debug\Rotation_MarkupCompile.lref
+N:\Documents\Visual Studio 2015\Projects\Rotation\Rotation\obj\Debug\MainWindow.baml
+N:\Documents\Visual Studio 2015\Projects\Rotation\Rotation\obj\Debug\Rotation.g.resources
+N:\Documents\Visual Studio 2015\Projects\Rotation\Rotation\obj\Debug\Rotation.Resources.resources
+N:\Documents\Visual Studio 2015\Projects\Rotation\Rotation\obj\Debug\Rotation.vbproj.GenerateResource.Cache
+C:\Users\Oscar\Documents\A2 Computing\Rotation\Rotation\obj\Debug\Rotation.exe
+C:\Users\Oscar\Documents\A2 Computing\Rotation\Rotation\obj\Debug\Rotation.xml
+C:\Users\Oscar\Documents\A2 Computing\Rotation\Rotation\obj\Debug\Rotation.pdb
+C:\Users\Oscar\Documents\A2 Computing\Rotation\Rotation\bin\Debug\Rotation.exe
+C:\Users\Oscar\Documents\A2 Computing\Rotation\Rotation\bin\Debug\Rotation.pdb
+C:\Users\Oscar\Documents\A2 Computing\Rotation\Rotation\bin\Debug\Rotation.xml
+C:\Users\Oscar\Documents\A2 Computing\Rotation\Rotation\obj\Debug\Rotation.vbprojResolveAssemblyReference.cache
+C:\Users\Oscar\Documents\A2 Computing\Rotation\Rotation\obj\Debug\MainWindow.g.vb
+C:\Users\Oscar\Documents\A2 Computing\Rotation\Rotation\obj\Debug\Application.g.vb
+C:\Users\Oscar\Documents\A2 Computing\Rotation\Rotation\obj\Debug\Rotation_MarkupCompile.cache
+C:\Users\Oscar\Documents\A2 Computing\Rotation\Rotation\obj\Debug\Rotation_MarkupCompile.lref
+C:\Users\Oscar\Documents\A2 Computing\Rotation\Rotation\obj\Debug\MainWindow.baml
+C:\Users\Oscar\Documents\A2 Computing\Rotation\Rotation\obj\Debug\Rotation.g.resources
+C:\Users\Oscar\Documents\A2 Computing\Rotation\Rotation\obj\Debug\Rotation.Resources.resources
+C:\Users\Oscar\Documents\A2 Computing\Rotation\Rotation\obj\Debug\Rotation.vbproj.GenerateResource.Cache
+\\SFXFILESRV03\StudentHomeDrives\ekoosao6274\Desktop\Rotation\Rotation\obj\Debug\Rotation.exe
+\\SFXFILESRV03\StudentHomeDrives\ekoosao6274\Desktop\Rotation\Rotation\obj\Debug\Rotation.xml
+\\SFXFILESRV03\StudentHomeDrives\ekoosao6274\Desktop\Rotation\Rotation\obj\Debug\Rotation.pdb
+\\SFXFILESRV03\StudentHomeDrives\ekoosao6274\Desktop\Rotation\Rotation\bin\Debug\Rotation.exe
+\\SFXFILESRV03\StudentHomeDrives\ekoosao6274\Desktop\Rotation\Rotation\bin\Debug\Rotation.pdb
+\\SFXFILESRV03\StudentHomeDrives\ekoosao6274\Desktop\Rotation\Rotation\bin\Debug\Rotation.xml
+\\SFXFILESRV03\StudentHomeDrives\ekoosao6274\Desktop\Rotation\Rotation\obj\Debug\Rotation.vbprojResolveAssemblyReference.cache
+\\SFXFILESRV03\StudentHomeDrives\ekoosao6274\Desktop\Rotation\Rotation\obj\Debug\MainWindow.g.vb
+\\SFXFILESRV03\StudentHomeDrives\ekoosao6274\Desktop\Rotation\Rotation\obj\Debug\Application.g.vb
+\\SFXFILESRV03\StudentHomeDrives\ekoosao6274\Desktop\Rotation\Rotation\obj\Debug\Rotation_MarkupCompile.cache
+\\SFXFILESRV03\StudentHomeDrives\ekoosao6274\Desktop\Rotation\Rotation\obj\Debug\Rotation_MarkupCompile.lref
+\\SFXFILESRV03\StudentHomeDrives\ekoosao6274\Desktop\Rotation\Rotation\obj\Debug\MainWindow.baml
+\\SFXFILESRV03\StudentHomeDrives\ekoosao6274\Desktop\Rotation\Rotation\obj\Debug\Rotation.g.resources
+\\SFXFILESRV03\StudentHomeDrives\ekoosao6274\Desktop\Rotation\Rotation\obj\Debug\Rotation.Resources.resources
+\\SFXFILESRV03\StudentHomeDrives\ekoosao6274\Desktop\Rotation\Rotation\obj\Debug\Rotation.vbproj.GenerateResource.Cache
+C:\Users\Oscar\Documents\A2 PROJECT\Rotation\Rotation\obj\Debug\Rotation.exe
+C:\Users\Oscar\Documents\A2 PROJECT\Rotation\Rotation\obj\Debug\Rotation.xml
+C:\Users\Oscar\Documents\A2 PROJECT\Rotation\Rotation\obj\Debug\Rotation.pdb
+C:\Users\Oscar\Documents\A2 PROJECT\Rotation\Rotation\bin\Debug\Rotation.exe
+C:\Users\Oscar\Documents\A2 PROJECT\Rotation\Rotation\bin\Debug\Rotation.pdb
+C:\Users\Oscar\Documents\A2 PROJECT\Rotation\Rotation\bin\Debug\Rotation.xml
+C:\Users\Oscar\Documents\A2 PROJECT\Rotation\Rotation\obj\Debug\Rotation.vbprojResolveAssemblyReference.cache
+C:\Users\Oscar\Documents\A2 PROJECT\Rotation\Rotation\obj\Debug\MainWindow.g.vb
+C:\Users\Oscar\Documents\A2 PROJECT\Rotation\Rotation\obj\Debug\Application.g.vb
+C:\Users\Oscar\Documents\A2 PROJECT\Rotation\Rotation\obj\Debug\Rotation_MarkupCompile.cache
+C:\Users\Oscar\Documents\A2 PROJECT\Rotation\Rotation\obj\Debug\Rotation_MarkupCompile.lref
+C:\Users\Oscar\Documents\A2 PROJECT\Rotation\Rotation\obj\Debug\MainWindow.baml
+C:\Users\Oscar\Documents\A2 PROJECT\Rotation\Rotation\obj\Debug\Rotation.g.resources
+C:\Users\Oscar\Documents\A2 PROJECT\Rotation\Rotation\obj\Debug\Rotation.Resources.resources
+C:\Users\Oscar\Documents\A2 PROJECT\Rotation\Rotation\obj\Debug\Rotation.vbproj.GenerateResource.Cache
+N:\Documents\pEROJECT\Rotation\Rotation\obj\Debug\Rotation.exe
+N:\Documents\pEROJECT\Rotation\Rotation\obj\Debug\Rotation.xml
+N:\Documents\pEROJECT\Rotation\Rotation\obj\Debug\Rotation.pdb
+N:\Documents\pEROJECT\Rotation\Rotation\bin\Debug\Rotation.exe
+N:\Documents\pEROJECT\Rotation\Rotation\bin\Debug\Rotation.pdb
+N:\Documents\pEROJECT\Rotation\Rotation\bin\Debug\Rotation.xml
+N:\Documents\pEROJECT\Rotation\Rotation\obj\Debug\Rotation.vbprojResolveAssemblyReference.cache
+N:\Documents\pEROJECT\Rotation\Rotation\obj\Debug\MainWindow.g.vb
+N:\Documents\pEROJECT\Rotation\Rotation\obj\Debug\Application.g.vb
+N:\Documents\pEROJECT\Rotation\Rotation\obj\Debug\Rotation_MarkupCompile.cache
+N:\Documents\pEROJECT\Rotation\Rotation\obj\Debug\Rotation_MarkupCompile.lref
+N:\Documents\pEROJECT\Rotation\Rotation\obj\Debug\MainWindow.baml
+N:\Documents\pEROJECT\Rotation\Rotation\obj\Debug\Rotation.g.resources
+N:\Documents\pEROJECT\Rotation\Rotation\obj\Debug\Rotation.Resources.resources
+N:\Documents\pEROJECT\Rotation\Rotation\obj\Debug\Rotation.vbproj.GenerateResource.Cache
+N:\Documents\Stick Bowman Project\Rotation\Rotation\obj\Debug\Rotation.exe
+N:\Documents\Stick Bowman Project\Rotation\Rotation\obj\Debug\Rotation.xml
+N:\Documents\Stick Bowman Project\Rotation\Rotation\obj\Debug\Rotation.pdb
+N:\Documents\Stick Bowman Project\Rotation\Rotation\bin\Debug\Rotation.exe
+N:\Documents\Stick Bowman Project\Rotation\Rotation\bin\Debug\Rotation.pdb
+N:\Documents\Stick Bowman Project\Rotation\Rotation\bin\Debug\Rotation.xml
+N:\Documents\Stick Bowman Project\Rotation\Rotation\obj\Debug\Rotation.vbprojResolveAssemblyReference.cache
+N:\Documents\Stick Bowman Project\Rotation\Rotation\obj\Debug\MainWindow.g.vb
+N:\Documents\Stick Bowman Project\Rotation\Rotation\obj\Debug\Application.g.vb
+N:\Documents\Stick Bowman Project\Rotation\Rotation\obj\Debug\Rotation_MarkupCompile.cache
+N:\Documents\Stick Bowman Project\Rotation\Rotation\obj\Debug\Rotation_MarkupCompile.lref
+N:\Documents\Stick Bowman Project\Rotation\Rotation\obj\Debug\MainWindow.baml
+N:\Documents\Stick Bowman Project\Rotation\Rotation\obj\Debug\Rotation.g.resources
+N:\Documents\Stick Bowman Project\Rotation\Rotation\obj\Debug\Rotation.Resources.resources
+N:\Documents\Stick Bowman Project\Rotation\Rotation\obj\Debug\Rotation.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Stick Bowman Project\Stick Bowman Project\Rotation\Rotation\bin\Debug\Rotation.exe.config
+C:\Users\Administrator\Documents\Stick Bowman Project\Stick Bowman Project\Rotation\Rotation\bin\Debug\Rotation.exe
+C:\Users\Administrator\Documents\Stick Bowman Project\Stick Bowman Project\Rotation\Rotation\bin\Debug\Rotation.pdb
+C:\Users\Administrator\Documents\Stick Bowman Project\Stick Bowman Project\Rotation\Rotation\bin\Debug\Rotation.xml
+C:\Users\Administrator\Documents\Stick Bowman Project\Stick Bowman Project\Rotation\Rotation\obj\Debug\Rotation.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Stick Bowman Project\Stick Bowman Project\Rotation\Rotation\obj\Debug\MainWindow.g.vb
+C:\Users\Administrator\Documents\Stick Bowman Project\Stick Bowman Project\Rotation\Rotation\obj\Debug\Application.g.vb
+C:\Users\Administrator\Documents\Stick Bowman Project\Stick Bowman Project\Rotation\Rotation\obj\Debug\Rotation_MarkupCompile.cache
+C:\Users\Administrator\Documents\Stick Bowman Project\Stick Bowman Project\Rotation\Rotation\obj\Debug\Rotation_MarkupCompile.lref
+C:\Users\Administrator\Documents\Stick Bowman Project\Stick Bowman Project\Rotation\Rotation\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\Stick Bowman Project\Stick Bowman Project\Rotation\Rotation\obj\Debug\Rotation.g.resources
+C:\Users\Administrator\Documents\Stick Bowman Project\Stick Bowman Project\Rotation\Rotation\obj\Debug\Rotation.Resources.resources
+C:\Users\Administrator\Documents\Stick Bowman Project\Stick Bowman Project\Rotation\Rotation\obj\Debug\Rotation.vbproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Stick Bowman Project\Stick Bowman Project\Rotation\Rotation\obj\Debug\Rotation.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Stick Bowman Project\Stick Bowman Project\Rotation\Rotation\obj\Debug\Rotation.exe
+C:\Users\Administrator\Documents\Stick Bowman Project\Stick Bowman Project\Rotation\Rotation\obj\Debug\Rotation.xml
+C:\Users\Administrator\Documents\Stick Bowman Project\Stick Bowman Project\Rotation\Rotation\obj\Debug\Rotation.pdb
